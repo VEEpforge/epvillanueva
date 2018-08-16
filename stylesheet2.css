@@ -1,0 +1,67 @@
+body {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: #3e3e3b	;
+}
+
+.brand {
+    display: inherit;
+    margin: 0;
+    padding: 20px 0 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: normal;
+    color: #fff;
+    background: #4c586f;
+}
+
+section {
+    background-color: #a2aab0;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    line-height: 2pc;
+    width: 30%;
+    height: 500px;
+}
+
+.profile {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article {
+    background-color: #cbc5c1;
+    height: 500px;
+    width: 66.85%;
+    float: left;
+    margin-left: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+h3{
+	color: black;
+	text-align: center;
+	font-size: 10pt;
+}
+
+h4{
+	color: #4c586f;
+	text-align: left;
+	font-size: 12pt;
+}
+
+h5{
+	color: black;
+	text-align: left;
+	font-size: 10pt;
+}
